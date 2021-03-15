@@ -1,0 +1,9 @@
+body {
+    background-color: gray;   
+}
+
+.navbar {
+    color: white;
+    font-weight: bold;
+    background: #5bc0de
+}
